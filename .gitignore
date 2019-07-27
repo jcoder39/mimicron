@@ -1,0 +1,12 @@
+/_build/
+/cover/
+/deps/
+/doc/
+/.fetch
+node_modules/
+.elixir_ls/
+
+erl_crash.dump
+*.ez
+mimicron-*.tar
+.DS_Store
